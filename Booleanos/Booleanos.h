@@ -13,3 +13,4 @@ bool triangulo(double, double, double);
 
 
 #endif // BOOLEANOS_H_INCLUDED
+ 
