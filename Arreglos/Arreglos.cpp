@@ -28,7 +28,7 @@ ostream& escribir_arreglo_entero (ostream& os, Arreglo_Entero a, int n){
     os << "El valor "  << i << "es: " << a[i];
   };
   return os;
-};
+}; 
 
 double Reales_Maximo(double arreglo[], int n) {
     double max, maxResto;
