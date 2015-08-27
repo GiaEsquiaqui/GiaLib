@@ -23,6 +23,6 @@ double producto(double, int);
 int promedio(int, int);
 int arreglo_may_num(int, double, int);
 int* cuentaletras(char*);
-double Reales_Minimo(double, int);
+double Reales_Minimo(double, int); 
 
 #endif // ARREGLOS_H_INCLUDED
